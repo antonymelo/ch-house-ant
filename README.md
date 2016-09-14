@@ -1,3 +1,10 @@
-# Coderhouse clase 1 ant
-## Trabajo practico de la clase 1:
-tags semanticos HTML5
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Mi documento</title>
+	</head>
+	<body>
+
+	</body>
+</html>
